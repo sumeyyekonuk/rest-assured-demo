@@ -13,8 +13,8 @@ rest-assured-demo
 ├── src
 │   └── test/java
 │       └── com.testproject
-│           ├── model        # Veri modelleri (Post vb.)
-│           └── tests        # API test senaryoları (BaseTest, CreatePostTest, GetPostsTest)
-├── pom.xml                  # Maven bağımlılıkları
-└── README.md                # Proje dokümantasyonu
+│           ├── model        
+│           └── tests        
+├── pom.xml                  
+└── README.md               
 
