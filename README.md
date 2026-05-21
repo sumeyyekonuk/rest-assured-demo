@@ -6,15 +6,5 @@ Bu proje, RESTful web servislerinin test otomasyonunu gerçekleştirmek amacıyl
 * Java - Programlama Dili
 * Rest-Assured - API Test Framework'ü
 * Maven - Bağımlılık ve Proje Yönetimi
-* JUnit 5 - Test Yönetimi, Test Sıralama (@Order) ve Doğrulamalar
-
-## 📦 Proje Yapısı
-rest-assured-demo
-├── src
-│   └── test/java
-│       └── com.testproject
-│           ├── model        
-│           └── tests        
-├── pom.xml                  
-└── README.md               
+* JUnit 5 - Test Yönetimi, Test Sıralama (@Order) ve Doğrulamalar           
 
